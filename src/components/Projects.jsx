@@ -7,7 +7,7 @@ const projects = [
     name: "Stage",
     technologies: "3D MAX & photoshop",
     image: img2,
-    github: "./Stage",
+    github: "/stage",
   },
   {
     id: 2,
