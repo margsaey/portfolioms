@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import img2 from "../assets/stage_img/img2.jpg";
+import img6 from "../assets/stage_img/img6.jpg";
+import m4 from "../assets/stage_img/making-of/m4.png";
 
 const projects = [
   {
@@ -14,12 +16,14 @@ const projects = [
     id: 2,
     name: "Making of",
     technologies: "3D MAX",
+    image: m4,
     link: "/making-of",
   },
   {
     id: 3,
     name: "Animation",
     technologies: "3D MAX",
+    image: img6,
     link: "/animation",
   },
 ];
