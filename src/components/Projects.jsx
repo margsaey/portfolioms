@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import img2 from "../assets/stage_img/img2.jpg";
 import img6 from "../assets/stage_img/img6.jpg";
 import m4 from "../assets/stage_img/making-of/m4.png";
+import w10 from "../assets/stage_img/webshop/w10.png";
 
 const projects = [
   {
@@ -24,6 +25,13 @@ const projects = [
     name: "Animation",
     technologies: "3D MAX",
     image: img6,
+    link: "/animation",
+  },
+  {
+    id: 4,
+    name: "Web Application",
+    technologies: "React JS",
+    image: w10,
     link: "/animation",
   },
 ];
