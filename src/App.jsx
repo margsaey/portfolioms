@@ -8,6 +8,8 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Projects from './components/Projects';
 import Stage from './Stage';
+import Making from './Making';
+import Animation from './Animation';
 
 function App() {
   return (
@@ -28,6 +30,8 @@ function App() {
         />
 
         <Route path="/stage" element={<Stage />} />
+        <Route path="/making-of" element={<Making />} />
+        <Route path="/animation" element={<Animation />} />
       </Routes>
     </Router>
   );

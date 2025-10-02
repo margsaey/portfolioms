@@ -12,15 +12,15 @@ const projects = [
   },
   {
     id: 2,
-    name: "Blog App",
-    technologies: "MERN Stack",
-    github: "https://github.com/YouafKhan1",
+    name: "Making of",
+    technologies: "3D MAX",
+    link: "/making-of",
   },
   {
     id: 3,
-    name: "Book MS",
-    technologies: "MERN Stack",
-    github: "https://github.com/YouafKhan1",
+    name: "Animation",
+    technologies: "3D MAX",
+    link: "/animation",
   },
 ];
 
