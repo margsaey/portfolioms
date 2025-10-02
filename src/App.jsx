@@ -12,12 +12,12 @@ import Stage from './Stage';
 function App() {
   return (
     <Router>
-      <Navbar />
       <Routes>
         <Route
           path="/"
           element={
             <>
+              <Navbar />
               <Hero />
               <About />
               <Projects />

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img2 from "../assets/img2.jpg";
+import img2 from "../assets/stage_img/img2.jpg";
 
 const projects = [
   {
