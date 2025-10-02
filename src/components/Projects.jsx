@@ -1,14 +1,14 @@
 import React from "react";
-// import employeeMSImage from "../assets/employee-ms.png";
-// import bookMSImage from "../assets/admin-dashboard.png";
+import Stage from "./Stage"
+import img2 from "../assets/img2.jpg"
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
-    technologies: "MERN Stack",
-    // image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    name: "Stage",
+    technologies: "3D MAX & photoshop",
+    image: img2,
+    github: <Stage />,
   },
   {
     id: 2,
