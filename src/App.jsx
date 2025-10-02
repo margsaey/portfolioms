@@ -10,6 +10,7 @@ import Projects from './components/Projects';
 import Stage from './Stage';
 import Making from './Making';
 import Animation from './Animation';
+import Webshop from './Webshop';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
         <Route path="/stage" element={<Stage />} />
         <Route path="/making-of" element={<Making />} />
         <Route path="/animation" element={<Animation />} />
+        <Route path="/web-app" element={<Webshop />} />
       </Routes>
     </Router>
   );

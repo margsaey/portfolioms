@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import img2 from "../assets/stage_img/img2.jpg";
-import img6 from "../assets/stage_img/img6.jpg";
+import img6 from "../assets/stage_img/img6.png";
 import m4 from "../assets/stage_img/making-of/m4.png";
 import w10 from "../assets/stage_img/webshop/w10.png";
 
@@ -32,7 +32,7 @@ const projects = [
     name: "Web Application",
     technologies: "React JS",
     image: w10,
-    link: "/animation",
+    link: "/web-app",
   },
 ];
 
