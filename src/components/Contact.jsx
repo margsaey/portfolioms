@@ -28,7 +28,7 @@ const Contact = () => {
                 <span>Leo Tertzweillaan 8, Gentbrugge, Belgium</span>
             </div>
           </div>
-          <div className='flex-1 w-full'>
+          {/* <div className='flex-1 w-full'>
             <form className='space-y-4'>
                 <div>
                     <label htmlFor="name" className='block mb-2'>Your Name</label>
@@ -55,7 +55,7 @@ const Contact = () => {
                 <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
             transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full'>Send</button>
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
