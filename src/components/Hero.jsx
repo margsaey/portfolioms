@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className='bg-black text-white text-center py-16'>
         <img 
-        // src={HeroImage} 
+        src={HeroImage} 
         alt="" 
         className='mx-auto mb-8 w-48 h-48 rounded-full object-cover transform 
         transition-transform duration-300 hover:scale-105'/>
