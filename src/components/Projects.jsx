@@ -1,6 +1,5 @@
 import React from "react";
-import Stage from "./Stage"
-import img2 from "../assets/img2.jpg"
+import img2 from "../assets/stage_img/img2.jpg"
 
 const projects = [
   {
@@ -8,7 +7,7 @@ const projects = [
     name: "Stage",
     technologies: "3D MAX & photoshop",
     image: img2,
-    github: <Stage />,
+    github: "./Stage",
   },
   {
     id: 2,
