@@ -13,7 +13,7 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Saeyens. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="https://www.linkedin.com/in/margot-saeyens-269475194/" className="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/margot-saeyens-269475194/" target="_blank" className="text-gray-400 hover:text-white">
               <FaLinkedin />
             </a>
           </div>
