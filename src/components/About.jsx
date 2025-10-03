@@ -14,10 +14,9 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am a passionate full-stack developer with a focus on building
-              modern and responsive web applications. With a strong foundation
+              I am a passionate graphic designer with a focus on 3D-modeling and creating stunning graphic designs. With a strong foundation
               in both frontend and backend technologies, I strive to create
-              seamless and efficient user experiences.
+              entertaining and efficient user experiences.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
