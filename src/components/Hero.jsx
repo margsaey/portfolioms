@@ -18,9 +18,11 @@ const Hero = () => {
         I specialize in 3D-modeling and graphic design.
       </p>
       <div className='mt-8 space-x-4'>
-        <button
+        <a
+        href="#contact"
+        rel="noopener noreferrer"
         className='bg-gradient-to-r from-green-400 to-blue-500 text-white
-        transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact With Me</button>
+        transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact Me</a>
         <a
         href="/resume.pdf"
         target="_blank"

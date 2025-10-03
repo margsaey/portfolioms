@@ -27,10 +27,12 @@ const Webshop = () => {
           ← Back to Projects
         </Link>
       </div>
-      <video width="640" height="360" controls>
-        <source src="/wv.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+      <div className="flex justify-center mt-8">
+        <video width="640" height="360" controls>
+          <source src="/wv.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
       <img src={w1} alt="" />
       <img src={w2} alt="" />
       <img src={w3} alt="" />
