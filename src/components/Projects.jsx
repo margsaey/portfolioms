@@ -4,6 +4,7 @@ import img2 from "../assets/stage_img/img2.jpg";
 import img6 from "../assets/stage_img/img6.png";
 import m4 from "../assets/stage_img/making-of/m4.png";
 import w10 from "../assets/stage_img/webshop/w10.png";
+import l1 from "../assets/etiketten/strontketske_24-25.pdf";
 
 const projects = [
   {
@@ -33,6 +34,13 @@ const projects = [
     technologies: "React JS",
     image: w10,
     link: "/web-app",
+  },
+  {
+    id: 5,
+    name: "Custom labels and images (De Graal)",
+    technologies: "Photoshop, Illustrator, Indesign",
+    image: l1,
+    link: "/labels",
   },
 ];
 

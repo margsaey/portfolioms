@@ -11,6 +11,7 @@ import Stage from './Stage';
 import Making from './Making';
 import Animation from './Animation';
 import Webshop from './Webshop';
+import Labels from './Labels';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route path="/making-of" element={<Making />} />
         <Route path="/animation" element={<Animation />} />
         <Route path="/web-app" element={<Webshop />} />
+        <Route path="/labels" element={<Labels />} />
       </Routes>
     </Router>
   );
