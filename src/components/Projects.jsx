@@ -4,7 +4,7 @@ import img2 from "../assets/stage_img/img2.jpg";
 import img6 from "../assets/stage_img/img6.png";
 import m4 from "../assets/stage_img/making-of/m4.png";
 import w10 from "../assets/stage_img/webshop/w10.png";
-import l1 from "../assets/etiketten/strontketske_24-25.pdf";
+import l1 from "../assets/etiketten/strontketske_24-25.jpg";
 
 const projects = [
   {
